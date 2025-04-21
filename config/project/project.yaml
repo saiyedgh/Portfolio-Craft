@@ -1,17 +1,32 @@
-dateModified: 1720995876
+dateModified: 1745114699
 email:
   fromEmail: syed.ext@gmail.com
   fromName: sai-yed.com
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
+    0cb181ce-705e-4815-b624-7a48d461aaff: 'Link Text' # Link Text
+    0f9e0368-ac40-4043-8a59-39c5ab183e7d: 'Link URL' # Link URL
+    1ef0a52a-f365-4946-bfc4-39f9360733e4: 'Site Navigation' # Site Navigation
+    7be1839e-b171-4d49-bafd-1d48b86252b9: 'Nav Item' # Nav Item
+    150fedcc-5274-4073-8fa2-296b3fb3e442: 'Image Asset' # Image Asset
+    76025d11-bd5b-43f1-b095-52cbd2b1a5be: 'New Tab' # New Tab
     80485932-678f-4c77-85dc-84337e9fa906: sai-yed.com # sai-yed.com
+    a298f6a4-71a0-45e3-9799-b6e4ea60553a: 'Main Navigation' # Main Navigation
+    c3b49c26-d423-4817-b952-0411962c2bd3: 'Section Body' # Section Body
+    c65af238-5c53-4d2a-9052-2a0677c7e1a5: 'Section Heading' # Section Heading
+    d64b666b-719f-482b-b574-c597ff61c2a8: Simple # Simple
     f14dfdae-aa49-43fc-af38-923d87b42db3: sai-yed.com # sai-yed.com
+plugins:
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
 system:
   edition: solo
   live: true
   name: sai-yed.com
-  schemaVersion: 5.0.0.21
+  schemaVersion: 5.7.0.3
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false

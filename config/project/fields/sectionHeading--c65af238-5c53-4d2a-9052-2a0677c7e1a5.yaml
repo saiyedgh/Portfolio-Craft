@@ -1,0 +1,16 @@
+columnSuffix: null
+handle: sectionHeading
+instructions: 'H1 tag'
+name: 'Section Heading'
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: 36
+  code: false
+  initialRows: 4
+  multiline: false
+  placeholder: 'Enter your section heading'
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

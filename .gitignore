@@ -2,3 +2,35 @@
 /.idea
 /vendor
 .DS_Store
+
+# Environment files
+/.env
+/.env.*.backup
+
+# IDE and editor files
+/.idea
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# Composer dependencies
+/vendor/
+
+# Node.js dependencies
+/node_modules/
+
+# Craft CMS runtime and cache
+/storage/
+/web/cpresources/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# User uploads (optional, depending on your setup)
+# Uncomment if you don't want to version control user-uploaded assets
+#/web/uploads/

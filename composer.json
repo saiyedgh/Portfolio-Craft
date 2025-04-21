@@ -21,7 +21,8 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "craftcms/cms": "^5.0.0",
+    "craftcms/ckeditor": "4.6.0",
+    "craftcms/cms": "5.7.1.1",
     "vlucas/phpdotenv": "^5.4.0"
   },
   "require-dev": {
@@ -52,5 +53,12 @@
       "@composer dump-autoload -o",
       "@php craft setup/welcome"
     ]
-  }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://composer.craftcms.com",
+      "canonical": false
+    }
+  ]
 }

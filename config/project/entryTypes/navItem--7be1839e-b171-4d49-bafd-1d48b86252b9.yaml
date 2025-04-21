@@ -1,0 +1,72 @@
+color: null
+fieldLayouts:
+  c393cf62-573e-41cf-8b10-ee7ef215623e:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2025-04-20T02:02:28+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 0cb181ce-705e-4815-b624-7a48d461aaff # Link Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 44e8aa93-c3b0-481c-afce-26034a07cad0
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-04-20T02:02:28+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 0f9e0368-ac40-4043-8a59-39c5ab183e7d # Link URL
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d54bcdca-e04f-42ce-94da-de5e3213e9c1
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-04-20T02:02:28+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 76025d11-bd5b-43f1-b095-52cbd2b1a5be # New Tab
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 8384a269-76ec-496b-a27f-44637fa641de
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: b90410e9-72bb-4099-9896-40c37889222f
+        userCondition: null
+handle: navItem
+hasTitleField: false
+icon: null
+name: 'Nav Item'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

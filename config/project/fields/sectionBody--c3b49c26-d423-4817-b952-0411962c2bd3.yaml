@@ -1,0 +1,21 @@
+columnSuffix: null
+handle: sectionBody
+instructions: null
+name: 'Section Body'
+searchable: false
+settings:
+  availableTransforms: ''
+  availableVolumes: ''
+  ckeConfig: d64b666b-719f-482b-b574-c597ff61c2a8 # Simple
+  createButtonLabel: null
+  defaultTransform: null
+  purifierConfig: null
+  purifyHtml: true
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  showWordCount: true
+  sourceEditingGroups: '*'
+  wordLimit: 256
+translationKeyFormat: null
+translationMethod: none
+type: craft\ckeditor\Field
