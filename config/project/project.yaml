@@ -1,4 +1,4 @@
-dateModified: 1745114699
+dateModified: 1746969692
 email:
   fromEmail: syed.ext@gmail.com
   fromName: sai-yed.com
@@ -22,6 +22,10 @@ plugins:
     edition: standard
     enabled: true
     schemaVersion: 3.0.0.0
+  freeform:
+    edition: express
+    enabled: false
+    schemaVersion: 5.4.2
 system:
   edition: solo
   live: true
